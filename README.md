@@ -1,5 +1,5 @@
 # Snake-Game
 
-A small game where you can start by downloading the html file and starting it.
+This is a Small Snake game in inspired of "https://Snake.mazelon.repl.co"
 
 This game is Open source
